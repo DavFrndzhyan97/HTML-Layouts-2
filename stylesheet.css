@@ -32,3 +32,14 @@ img {
     display: flex;
 }
 
+footer {
+    width: 100%;
+    height: 10%;
+    background: #020202;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; 
+}
+
